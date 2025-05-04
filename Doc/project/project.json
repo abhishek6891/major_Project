@@ -1,0 +1,121 @@
+[
+  {
+    "project_title": "Fitness App",
+    "client_name": "Michael Green",
+    "project_summary": "A mobile app that helps users track workouts, calories, and fitness goals.",
+    "project_quotation_price": 6500,
+    "created_date": "2025-03-30",
+    "wireframe_gallery": [
+      "https://example.com/wireframes/fitness1.png",
+      "https://example.com/wireframes/fitness2.png"
+    ],
+    "required_tech_skills": [
+      "Flutter",
+      "Firebase",
+      "GraphQL"
+    ],
+    "deadline": "2025-05-15",
+    "priority_level": "Medium",
+    "contact_email": "michael.g@example.com",
+    "project_status": "Pending",
+    "repository_link": "https://github.com/client/fitness-app",
+    "design_tool_used": "Adobe XD",
+    "notes": "Ensure calorie tracking logic is accurate."
+  },
+  {
+    "project_title": "Real Estate Portal",
+    "client_name": "Nina Patel",
+    "project_summary": "A portal for property listings with map integration and agent messaging features.",
+    "project_quotation_price": 7200,
+    "created_date": "2025-04-02",
+    "wireframe_gallery": [
+      "https://example.com/wireframes/realestate1.png",
+      "https://example.com/wireframes/realestate2.png"
+    ],
+    "required_tech_skills": [
+      "Angular",
+      "Node.js",
+      "PostgreSQL",
+      "Google Maps API"
+    ],
+    "deadline": "2025-06-01",
+    "priority_level": "High",
+    "contact_email": "nina.p@example.com",
+    "project_status": "In Progress",
+    "repository_link": "https://github.com/client/real-estate-portal",
+    "design_tool_used": "Figma",
+    "notes": "Search filter performance is crucial."
+  },
+  {
+    "project_title": "Online Learning Platform",
+    "client_name": "Robert Kim",
+    "project_summary": "A platform for hosting video courses with quizzes, progress tracking, and certificates.",
+    "project_quotation_price": 9800,
+    "created_date": "2025-04-10",
+    "wireframe_gallery": [
+      "https://example.com/wireframes/elearning1.png",
+      "https://example.com/wireframes/elearning2.png"
+    ],
+    "required_tech_skills": [
+      "Vue.js",
+      "Laravel",
+      "MySQL",
+      "AWS S3"
+    ],
+    "deadline": "2025-06-20",
+    "priority_level": "Medium",
+    "contact_email": "robert.k@example.com",
+    "project_status": "Pending",
+    "repository_link": "https://github.com/client/elearning-platform",
+    "design_tool_used": "Sketch",
+    "notes": "Include SCORM compatibility for course uploads."
+  },
+  {
+    "project_title": "Crypto Portfolio Tracker",
+    "client_name": "Sofia Martinez",
+    "project_summary": "A dashboard for users to track crypto investments, set alerts, and analyze trends.",
+    "project_quotation_price": 5300,
+    "created_date": "2025-04-15",
+    "wireframe_gallery": [
+      "https://example.com/wireframes/crypto1.png",
+      "https://example.com/wireframes/crypto2.png"
+    ],
+    "required_tech_skills": [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "CoinGecko API"
+    ],
+    "deadline": "2025-05-30",
+    "priority_level": "Low",
+    "contact_email": "sofia.m@example.com",
+    "project_status": "In Progress",
+    "repository_link": "https://github.com/client/crypto-tracker",
+    "design_tool_used": "Figma",
+    "notes": "Real-time price updates are a top priority."
+  },
+  {
+    "project_title": "AI Investment Advisor",
+    "client_name": "Daniel Thomson",
+    "project_summary": "A platform that uses AI to provide personalized investment advice and portfolio suggestions.",
+    "project_quotation_price": 6200,
+    "created_date": "2025-04-20",
+    "wireframe_gallery": [
+      "https://example.com/wireframes/aiadvisor1.png",
+      "https://example.com/wireframes/aiadvisor2.png"
+    ],
+    "required_tech_skills": [
+      "Python",
+      "TensorFlow",
+      "React",
+      "PostgreSQL"
+    ],
+    "deadline": "2025-06-10",
+    "priority_level": "Medium",
+    "contact_email": "daniel.t@example.com",
+    "project_status": "Pending",
+    "repository_link": "https://github.com/client/ai-investment-advisor",
+    "design_tool_used": "Adobe XD",
+    "notes": "Ensure GDPR compliance and real-time data syncing."
+  }
+]

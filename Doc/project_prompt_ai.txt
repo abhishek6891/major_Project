@@ -1,0 +1,15 @@
+I need json file for 5 client's projects.
+client's project should have "project title","client name","project summary","project quotation price","created date","wireframe gallery","required tech skills"
+i have this much in my mind if you find something more useful for the developer other than this than add those fields also.
+
+------------------------------------------------------------------------------------------------------------
+
+How to convert json to struct in GoLang?
+
+How to read filesystem json file and convert in struct in Golang?
+----------------------------------------------------------------------------------------------------------------
+
+how to convert json string to file give with example
+
+----------------------------------------------------------------------------------------------
+downloaded playground validator for input validation

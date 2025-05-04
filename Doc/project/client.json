@@ -1,0 +1,14 @@
+[
+  {
+    "client_id": "01",
+    "client_name": "Alice Johnson",
+    "email": "alice.j@example.com",
+    "company": "Alice Crafts",
+    "contact_number": "+91-98gdhfj76543210",
+    "address": "123, MG Road, Bengaluru, India",
+    "projects": [
+      "E-Commerce Website",
+      "Handmade Crafts Portal"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "callerId": "client123",
+    "calleeId": "dev456",
+    "roomId": "client123_dev456",
+    "startTime": "2025-04-22T22:00:48.03157928+05:30",
+    "endTime": "0001-01-01T00:00:00Z"
+  },
+  {
+    "callerId": "client123",
+    "calleeId": "dev456",
+    "roomId": "client123_dev456",
+    "startTime": "2025-04-28T22:43:51.969066357+05:30",
+    "endTime": "0001-01-01T00:00:00Z"
+  },
+  {
+    "callerId": "client123",
+    "calleeId": "developer456",
+    "roomId": "client123_developer456",
+    "startTime": "2025-04-28T22:44:33.961111232+05:30",
+    "endTime": "0001-01-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "dev_ID": "01",
+    "name": "",
+    "email": "updatedd@gmail.com",
+    "skills": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS"
+    ],
+    "experience": 0,
+    "linkedin": "linkedin.com/in/alex-johnson-dev",
+    "available": "yes",
+    "contact_email": "alex.contact@dev.com"
+  },
+  {
+    "devID": "02",
+    "name": "",
+    "email": "sam.wilson@fullstack.dev",
+    "skills": [
+      "TypeScript",
+      "Node.js",
+      "React",
+      "PostgreSQL",
+      "GraphQL"
+    ],
+    "experience": 0,
+    "linkedin": "linkedin.com/in/sam-wilson-fs",
+    "available": "part-time",
+    "contact_email": "sam.contact@fullstack.dev"
+  }
+
+]
